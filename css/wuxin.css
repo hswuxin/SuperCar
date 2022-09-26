@@ -1,0 +1,165 @@
+#btop
+{
+    height: 60px;
+    background-color: black;
+}
+.dtop
+{
+    min-height: 60px;
+    padding-top: 5px;
+    text-align: center;
+}
+.carticle
+{
+    height: 450px;
+    margin-top: 25px;
+    border-right: 1px solid black;
+}
+.carticle2
+{
+    text-align: center;
+    float: left;
+    height: 330px;
+}
+.carticle3
+{
+    line-height: 100px;
+    text-align: center;
+    height: 100px;
+}
+.carticle-img1
+{
+    background-repeat: no-repeat, repeat;
+}
+.carticle-img2
+{
+    background-repeat: no-repeat, repeat;
+    background-image: url(../images/1.jpg);
+}
+.carticle-img3
+{
+    background-repeat: no-repeat, repeat;
+    background-image: url(../images/推送-IMAGE.png);
+}
+.listimg1
+{
+    list-style: none;
+}
+.lbw
+{
+    margin-top: 0px;
+}
+.data1
+{
+    list-style: none;
+    text-align: left;
+    line-height: 60px;
+}
+.data2
+{
+    min-width: 240px;
+    list-style: none;
+    text-align: right;
+    line-height: 60px;
+    color: aliceblue;
+}
+/*文章容器1*/
+.btact
+{  
+    min-height: 700px;
+    min-width: 1920px;
+}
+.btactleft
+{
+    min-height: 650px;
+
+}
+.btactright
+{
+    min-height: 650px;
+}
+/*图片蒙版*/
+.imgcover
+{
+    padding-left: 0px;
+}
+/*文章UL*/
+.btactul
+{
+    padding-top: 20px;
+    color: white;
+    list-style: none;
+    float: right;
+    padding-right: 10px;
+}
+/*行高*/
+.btactul li
+{
+    text-align: right;
+    line-height: 60px;
+    font-size: 14px;
+}
+/*文字宽度*/
+.actk
+{
+    letter-spacing: 1mm;
+}
+/*强制A标签*/
+.btactul a
+{
+    color: white;
+}
+.btactul a:hover
+{
+    color: #f48b95;
+}
+/*文章容器2*/
+.btact2
+{
+    margin-top: 5px;
+    min-height: 1400px;
+    min-width: 1920px;
+}
+/*图片蒙版2*/
+#imgcover2
+{
+    background-image: url(../images/测试.png);
+    mask-image: url(../images/测试.png);
+}
+.btactleft2
+{
+    min-height: 650px;
+
+}
+.btactright2
+{
+    padding-top: 40px;
+    min-height: 650px;
+}
+.btactleft3
+{
+    min-height: 650px;
+
+}
+.btactright3
+{
+    padding-top: 60px;
+    min-height: 650px;
+
+}
+/*图片蒙版3*/
+.imgcover3
+{
+    -webkit-mask-repeat: no-repeat;
+    -webkit-mask-image: url(../images/text3.png);
+}
+.ctop
+{
+    margin-top: 50px;
+    border-top: 1px solid whitesmoke;
+}
+.carticle-img4
+{
+    background-repeat: no-repeat, repeat;
+    background-image: url(../images/推送-IMAGE2.png);
+}
